@@ -1,6 +1,9 @@
 # Gephi CLI
 A command-line interface of [Gephi](https://gephi.org/).
 
+# Download
+[gephi-cli (2018-05-11)](https://github.com/kwonoh/gephi-cli/releases/download/2018-05-11/gephi-cli.jar)
+
 # Usage
 ```sh
 java -jar gephi-cli.jar force-atlas-2 -i data/karate.graphml -o data/karate.out.graphml
