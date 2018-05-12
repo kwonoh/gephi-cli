@@ -11,7 +11,7 @@ java -jar gephi-cli.jar force-atlas-2 -i data/karate.graphml -o data/karate.out.
 
 ## Commands and Parameters
 
-### force-atlas-2
+### `force-atlas-2`
 ```
   -h, --help                Show this help message and exit.
   -i, --in=FILE             The input file path.
