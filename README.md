@@ -1,21 +1,19 @@
 # Gephi CLI
 A command-line interface of [Gephi](https://gephi.org/).
 
-# Download
+## Download
 [gephi-cli (2018-05-11)](https://github.com/kwonoh/gephi-cli/releases/download/2018-05-11/gephi-cli.jar)
 
-# Usage
+## Usage
 ```sh
 java -jar gephi-cli.jar force-atlas-2 -i data/karate.graphml -o data/karate.out.graphml
 ```
 
-# Parameters
-Each subcommand has different set of parameters
+## Commands and Parameters
 
-## force-atlas-2
+### force-atlas-2
 ```
   -h, --help                Show this help message and exit.
-  -V, --version             Print version information and exit.
   -i, --in=FILE             The input file path.
   -o, --out=FILE            The output file path.
       --max-iters=INT       The number of maximum iterations for layout computation.
@@ -34,5 +32,4 @@ Each subcommand has different set of parameters
       --barnes-hut=BOOL     Use Barnes-Hut optimization (default: true if |V| >= 1000 else false).
       --barnes-hut-theta=NUM
                             Barnes-Hut theta parameter (default: 1.2).
-
 ```
