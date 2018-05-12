@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+
+  <!-- property keys -->
+  <key id="key0" for="graph" attr.name="description" attr.type="string" />
+  <key id="key1" for="node" attr.name="label" attr.type="string" />
+  <key id="key2" for="node" attr.name="pos" attr.type="vector_float" />
+  <key id="key3" for="graph" attr.name="readme" attr.type="string" />
+
+  <graph id="G" edgedefault="undirected" parse.nodeids="canonical" parse.edgeids="canonical" parse.order="nodesfirst">
+
+   <!-- graph properties -->
+   <data key="key0">Dolphin social network: an undirected social network of frequent associations between 62 dolphins in a community living off Doubtful Sound, New Zealand. Please cite D. Lusseau, K. Schneider, O. J. Boisseau, P. Haase, E. Slooten, and S. M. Dawson, Behavioral Ecology and Sociobiology 54, 396-405 (2003). Retrieved from `Mark Newman&apos;s website &lt;http://www-personal.umich.edu/~mejn/netdata/&gt;`_.</data>
+   <data key="key3">The file dolphins.gml contains an undirected social network of frequent
+associations between 62 dolphins in a community living off Doubtful Sound,
+New Zealand, as compiled by Lusseau et al. (2003).  Please cite
+
+  D. Lusseau, K. Schneider, O. J. Boisseau, P. Haase, E. Slooten, and
+  S. M. Dawson, The bottlenose dolphin community of Doubtful Sound features
+  a large proportion of long-lasting associations, Behavioral Ecology and
+  Sociobiology 54, 396-405 (2003).
+
+Additional information on the network can be found in
+
+  D. Lusseau, The emergent properties of a dolphin social network,
+  Proc. R. Soc. London B (suppl.) 270, S186-S188 (2003).
+
+  D. Lusseau, Evidence for social role in a dolphin social network,
+  Preprint q-bio/0607048 (http://arxiv.org/abs/q-bio.PE/0607048)
+</data>
+
+   <!-- vertices -->
+    <node id="n0">
+      <data key="key1">Beak</data>
+      <data key="key2">0x1.b08fb50bc09ebp+7, 0x1.17061460758e8p+7</data>
+    </node>
+    <node id="n1">
+      <data key="key1">Beescratch</data>
+      <data key="key2">0x1.a2eedfdc4cd65p+7, 0x1.2058b443c6234p+7</data>
+    </node>
+    <node id="n2">
+      <data key="key1">Bumper</data>
+      <data key="key2">0x1.afa00b0c6d7cp+7, 0x1.0b11b122ac87dp+7</data>
+    </node>
+    <node id="n3">
+      <data key="key1">CCL</data>
+      <data key="key2">0x1.b40afac1800dp+7, 0x1.1ce6d4ddc7797p+7</data>
+    </node>
+    <node id="n4">
+      <data key="key1">Cross</data>
+      <data key="key2">0x1.c459cb08e381dp+7, 0x1.22dc8051b3e87p+7</data>
+    </node>
+    <node id="n5">
+      <data key="key1">DN16</data>
+      <data key="key2">0x1.916e9d3c1af82p+7, 0x1.1e02b99902338p+7</data>
+    </node>
+    <node id="n6">
+      <data key="key1">DN21</data>
+      <data key="key2">0x1.9561ec055ac37p+7, 0x1.1e0a6c2963007p+7</data>
+    </node>
+    <node id="n7">
+      <data key="key1">DN63</data>
+      <data key="key2">0x1.a6fc1850c950fp+7, 0x1.1d10d165fd1d3p+7</data>
+    </node>
+    <node id="n8">
+      <data key="key1">Double</data>
+      <data key="key2">0x1.b106c5f472cf4p+7, 0x1.1af64264bdb89p+7</data>
+    </node>
+    <node id="n9">
+      <data key="key1">Feather</data>
+      <data key="key2">0x1.93d3bc4cd4298p+7, 0x1.2256b6e92cfc3p+7</data>
+    </node>
+    <node id="n10">
+      <data key="key1">Fish</data>
+      <data key="key2">0x1.b1f720504b0ccp+7, 0x1.1133e4add0a2fp+7</data>
+    </node>
+    <node id="n11">
+      <data key="key1">Five</data>
+      <data key="key2">0x1.c0e6b03db2a2cp+7, 0x1.27119758b6366p+7</data>
+    </node>
+    <node id="n12">
+      <data key="key1">Fork</data>
+      <data key="key2">0x1.c4def5f628406p+7, 0x1.120e6393ccf6dp+7</data>
+    </node>
+    <node id="n13">
+      <data key="key1">Gallatin</data>
+      <data key="key2">0x1.9672773944011p+7, 0x1.215605ba3aa71p+7</data>
+    </node>
+    <node id="n14">
+      <data key="key1">Grin</data>
+      <data key="key2">0x1.b90a0d88bbc85p+7, 0x1.1541c56f76f32p+7</data>
+    </node>
+    <node id="n15">
+      <data key="key1">Haecksel</data>
+      <data key="key2">0x1.b6ce4672ca2d6p+7, 0x1.1f13471d8ef62p+7</data>
+    </node>
+    <node id="n16">
+      <data key="key1">Hook</data>
+      <data key="key2">0x1.b64b823cfee0ep+7, 0x1.115e4c7851adcp+7</data>
+    </node>
+    <node id="n17">
+      <data key="key1">Jet</data>
+      <data key="key2">0x1.9a019c61b8f68p+7, 0x1.24d6470b83a16p+7</data>
+    </node>
+    <node id="n18">
+      <data key="key1">Jonah</data>
+      <data key="key2">0x1.ba3320c0753ddp+7, 0x1.1a8f20f6e1c9p+7</data>
+    </node>
+    <node id="n19">
+      <data key="key1">Knit</data>
+      <data key="key2">0x1.a2b668057cfe2p+7, 0x1.1bda20309ec62p+7</data>
+    </node>
+    <node id="n20">
+      <data key="key1">Kringel</data>
+      <data key="key2">0x1.b22a2d7f47779p+7, 0x1.14cc02e63f62ep+7</data>
+    </node>
+    <node id="n21">
+      <data key="key1">MN105</data>
+      <data key="key2">0x1.be364832494e4p+7, 0x1.19815193a8524p+7</data>
+    </node>
+    <node id="n22">
+      <data key="key1">MN23</data>
+      <data key="key2">0x1.991c132503722p+7, 0x1.2cb7ddb5c0bf6p+7</data>
+    </node>
+    <node id="n23">
+      <data key="key1">MN60</data>
+      <data key="key2">0x1.b4faf48e29176p+7, 0x1.22742cc1847dp+7</data>
+    </node>
+    <node id="n24">
+      <data key="key1">MN83</data>
+      <data key="key2">0x1.bcdc37c1e666dp+7, 0x1.1c8b9b05f5114p+7</data>
+    </node>
+    <node id="n25">
+      <data key="key1">Mus</data>
+      <data key="key2">0x1.9e9fc1b2c6542p+7, 0x1.2963775165d9dp+7</data>
+    </node>
+    <node id="n26">
+      <data key="key1">Notch</data>
+      <data key="key2">0x1.a3654c1c855b8p+7, 0x1.27fa968ceb369p+7</data>
+    </node>
+    <node id="n27">
+      <data key="key1">Number1</data>
+      <data key="key2">0x1.a12f919e14bfp+7, 0x1.244ca0a0cfe73p+7</data>
+    </node>
+    <node id="n28">
+      <data key="key1">Oscar</data>
+      <data key="key2">0x1.aa2265680c7f6p+7, 0x1.194ab38f7d26p+7</data>
+    </node>
+    <node id="n29">
+      <data key="key1">Patchback</data>
+      <data key="key2">0x1.bca8e8f2313afp+7, 0x1.17158d17d2cccp+7</data>
+    </node>
+    <node id="n30">
+      <data key="key1">PL</data>
+      <data key="key2">0x1.a7086d36e434cp+7, 0x1.16360ee50e398p+7</data>
+    </node>
+    <node id="n31">
+      <data key="key1">Quasi</data>
+      <data key="key2">0x1.948f7d99af73bp+7, 0x1.2a7f6f8d0e2f7p+7</data>
+    </node>
+    <node id="n32">
+      <data key="key1">Ripplefluke</data>
+      <data key="key2">0x1.8e964a8395619p+7, 0x1.24b5553833459p+7</data>
+    </node>
+    <node id="n33">
+      <data key="key1">Scabs</data>
+      <data key="key2">0x1.bc31c7c27947p+7, 0x1.136ba5e1c402dp+7</data>
+    </node>
+    <node id="n34">
+      <data key="key1">Shmuddel</data>
+      <data key="key2">0x1.bb936c12961b5p+7, 0x1.0d8605503e365p+7</data>
+    </node>
+    <node id="n35">
+      <data key="key1">SMN5</data>
+      <data key="key2">0x1.c56eda3b86acbp+7, 0x1.18a6f4c29d6c8p+7</data>
+    </node>
+    <node id="n36">
+      <data key="key1">SN100</data>
+      <data key="key2">0x1.ad26c0a38eb5fp+7, 0x1.1bd550826ed76p+7</data>
+    </node>
+    <node id="n37">
+      <data key="key1">SN4</data>
+      <data key="key2">0x1.b68ab8dfc753p+7, 0x1.148e1548eecf9p+7</data>
+    </node>
+    <node id="n38">
+      <data key="key1">SN63</data>
+      <data key="key2">0x1.b81ca1d0f712ap+7, 0x1.0e01a068566c9p+7</data>
+    </node>
+    <node id="n39">
+      <data key="key1">SN89</data>
+      <data key="key2">0x1.a178a9ca71d1ap+7, 0x1.18bd46b73e638p+7</data>
+    </node>
+    <node id="n40">
+      <data key="key1">SN9</data>
+      <data key="key2">0x1.b36e05d6e2782p+7, 0x1.189049ad27bb5p+7</data>
+    </node>
+    <node id="n41">
+      <data key="key1">SN90</data>
+      <data key="key2">0x1.9ad4f0940e67dp+7, 0x1.20c7d3a6492f9p+7</data>
+    </node>
+    <node id="n42">
+      <data key="key1">SN96</data>
+      <data key="key2">0x1.ae0c4ebb96e7fp+7, 0x1.11cce0c744403p+7</data>
+    </node>
+    <node id="n43">
+      <data key="key1">Stripes</data>
+      <data key="key2">0x1.be3682aa9043dp+7, 0x1.0fc3a32be782bp+7</data>
+    </node>
+    <node id="n44">
+      <data key="key1">Thumper</data>
+      <data key="key2">0x1.b3d391ec65bp+7, 0x1.0c949b1927b55p+7</data>
+    </node>
+    <node id="n45">
+      <data key="key1">Topless</data>
+      <data key="key2">0x1.b81181ba39572p+7, 0x1.1c617ad6c9a13p+7</data>
+    </node>
+    <node id="n46">
+      <data key="key1">TR120</data>
+      <data key="key2">0x1.c53373d74c37p+7, 0x1.0b326d8aaa789p+7</data>
+    </node>
+    <node id="n47">
+      <data key="key1">TR77</data>
+      <data key="key2">0x1.abba29e3ca433p+7, 0x1.1424cf77242ddp+7</data>
+    </node>
+    <node id="n48">
+      <data key="key1">TR82</data>
+      <data key="key2">0x1.94f6460007b2ep+7, 0x1.1615a47072937p+7</data>
+    </node>
+    <node id="n49">
+      <data key="key1">TR88</data>
+      <data key="key2">0x1.c22cf2c485b3cp+7, 0x1.07cead34c5813p+7</data>
+    </node>
+    <node id="n50">
+      <data key="key1">TR99</data>
+      <data key="key2">0x1.b6cde97fb4aecp+7, 0x1.17ba5e6781b32p+7</data>
+    </node>
+    <node id="n51">
+      <data key="key1">Trigger</data>
+      <data key="key2">0x1.bcba861a4880fp+7, 0x1.1fc179e41556dp+7</data>
+    </node>
+    <node id="n52">
+      <data key="key1">TSN103</data>
+      <data key="key2">0x1.b9a893ea46f78p+7, 0x1.11f515da2e604p+7</data>
+    </node>
+    <node id="n53">
+      <data key="key1">TSN83</data>
+      <data key="key2">0x1.bcbc9a290daa3p+7, 0x1.07d8bf8c88f17p+7</data>
+    </node>
+    <node id="n54">
+      <data key="key1">Upbang</data>
+      <data key="key2">0x1.9d70069bb2ebfp+7, 0x1.1de0eea5a6267p+7</data>
+    </node>
+    <node id="n55">
+      <data key="key1">Vau</data>
+      <data key="key2">0x1.bacdf05a218e4p+7, 0x1.2573b7bccfd06p+7</data>
+    </node>
+    <node id="n56">
+      <data key="key1">Wave</data>
+      <data key="key2">0x1.8e5582043d296p+7, 0x1.1acd78db208aep+7</data>
+    </node>
+    <node id="n57">
+      <data key="key1">Web</data>
+      <data key="key2">0x1.988febb4de5c8p+7, 0x1.1ccf43822a419p+7</data>
+    </node>
+    <node id="n58">
+      <data key="key1">Whitetip</data>
+      <data key="key2">0x1.b7c186161f5f8p+7, 0x1.049732140e0b2p+7</data>
+    </node>
+    <node id="n59">
+      <data key="key1">Zap</data>
+      <data key="key2">0x1.b17398ffb4fc6p+7, 0x1.202447ebacb7bp+7</data>
+    </node>
+    <node id="n60">
+      <data key="key1">Zig</data>
+      <data key="key2">0x1.8850992a804bfp+7, 0x1.2731ca6563f9p+7</data>
+    </node>
+    <node id="n61">
+      <data key="key1">Zipfel</data>
+      <data key="key2">0x1.b63d8ffb1c216p+7, 0x1.09bddc5b1978dp+7</data>
+    </node>
+
+   <!-- edges -->
+    <edge id="e0" source="n8" target="n3">
+    </edge>
+    <edge id="e1" source="n9" target="n5">
+    </edge>
+    <edge id="e2" source="n9" target="n6">
+    </edge>
+    <edge id="e3" source="n10" target="n0">
+    </edge>
+    <edge id="e4" source="n10" target="n2">
+    </edge>
+    <edge id="e5" source="n13" target="n5">
+    </edge>
+    <edge id="e6" source="n13" target="n6">
+    </edge>
+    <edge id="e7" source="n13" target="n9">
+    </edge>
+    <edge id="e8" source="n14" target="n0">
+    </edge>
+    <edge id="e9" source="n14" target="n3">
+    </edge>
+    <edge id="e10" source="n15" target="n0">
+    </edge>
+    <edge id="e11" source="n16" target="n14">
+    </edge>
+    <edge id="e12" source="n17" target="n1">
+    </edge>
+    <edge id="e13" source="n17" target="n6">
+    </edge>
+    <edge id="e14" source="n17" target="n9">
+    </edge>
+    <edge id="e15" source="n17" target="n13">
+    </edge>
+    <edge id="e16" source="n18" target="n15">
+    </edge>
+    <edge id="e17" source="n19" target="n1">
+    </edge>
+    <edge id="e18" source="n19" target="n7">
+    </edge>
+    <edge id="e19" source="n20" target="n8">
+    </edge>
+    <edge id="e20" source="n20" target="n16">
+    </edge>
+    <edge id="e21" source="n20" target="n18">
+    </edge>
+    <edge id="e22" source="n21" target="n18">
+    </edge>
+    <edge id="e23" source="n22" target="n17">
+    </edge>
+    <edge id="e24" source="n24" target="n14">
+    </edge>
+    <edge id="e25" source="n24" target="n15">
+    </edge>
+    <edge id="e26" source="n24" target="n18">
+    </edge>
+    <edge id="e27" source="n25" target="n17">
+    </edge>
+    <edge id="e28" source="n26" target="n1">
+    </edge>
+    <edge id="e29" source="n26" target="n25">
+    </edge>
+    <edge id="e30" source="n27" target="n1">
+    </edge>
+    <edge id="e31" source="n27" target="n7">
+    </edge>
+    <edge id="e32" source="n27" target="n17">
+    </edge>
+    <edge id="e33" source="n27" target="n25">
+    </edge>
+    <edge id="e34" source="n27" target="n26">
+    </edge>
+    <edge id="e35" source="n28" target="n1">
+    </edge>
+    <edge id="e36" source="n28" target="n8">
+    </edge>
+    <edge id="e37" source="n28" target="n20">
+    </edge>
+    <edge id="e38" source="n29" target="n10">
+    </edge>
+    <edge id="e39" source="n29" target="n18">
+    </edge>
+    <edge id="e40" source="n29" target="n21">
+    </edge>
+    <edge id="e41" source="n29" target="n24">
+    </edge>
+    <edge id="e42" source="n30" target="n7">
+    </edge>
+    <edge id="e43" source="n30" target="n19">
+    </edge>
+    <edge id="e44" source="n30" target="n28">
+    </edge>
+    <edge id="e45" source="n31" target="n17">
+    </edge>
+    <edge id="e46" source="n32" target="n9">
+    </edge>
+    <edge id="e47" source="n32" target="n13">
+    </edge>
+    <edge id="e48" source="n33" target="n12">
+    </edge>
+    <edge id="e49" source="n33" target="n14">
+    </edge>
+    <edge id="e50" source="n33" target="n16">
+    </edge>
+    <edge id="e51" source="n33" target="n21">
+    </edge>
+    <edge id="e52" source="n34" target="n14">
+    </edge>
+    <edge id="e53" source="n34" target="n33">
+    </edge>
+    <edge id="e54" source="n35" target="n29">
+    </edge>
+    <edge id="e55" source="n36" target="n1">
+    </edge>
+    <edge id="e56" source="n36" target="n20">
+    </edge>
+    <edge id="e57" source="n36" target="n23">
+    </edge>
+    <edge id="e58" source="n37" target="n8">
+    </edge>
+    <edge id="e59" source="n37" target="n14">
+    </edge>
+    <edge id="e60" source="n37" target="n16">
+    </edge>
+    <edge id="e61" source="n37" target="n21">
+    </edge>
+    <edge id="e62" source="n37" target="n33">
+    </edge>
+    <edge id="e63" source="n37" target="n34">
+    </edge>
+    <edge id="e64" source="n37" target="n36">
+    </edge>
+    <edge id="e65" source="n38" target="n14">
+    </edge>
+    <edge id="e66" source="n38" target="n16">
+    </edge>
+    <edge id="e67" source="n38" target="n20">
+    </edge>
+    <edge id="e68" source="n38" target="n33">
+    </edge>
+    <edge id="e69" source="n39" target="n36">
+    </edge>
+    <edge id="e70" source="n40" target="n0">
+    </edge>
+    <edge id="e71" source="n40" target="n7">
+    </edge>
+    <edge id="e72" source="n40" target="n14">
+    </edge>
+    <edge id="e73" source="n40" target="n15">
+    </edge>
+    <edge id="e74" source="n40" target="n33">
+    </edge>
+    <edge id="e75" source="n40" target="n36">
+    </edge>
+    <edge id="e76" source="n40" target="n37">
+    </edge>
+    <edge id="e77" source="n41" target="n1">
+    </edge>
+    <edge id="e78" source="n41" target="n9">
+    </edge>
+    <edge id="e79" source="n41" target="n13">
+    </edge>
+    <edge id="e80" source="n42" target="n0">
+    </edge>
+    <edge id="e81" source="n42" target="n2">
+    </edge>
+    <edge id="e82" source="n42" target="n10">
+    </edge>
+    <edge id="e83" source="n42" target="n30">
+    </edge>
+    <edge id="e84" source="n43" target="n14">
+    </edge>
+    <edge id="e85" source="n43" target="n29">
+    </edge>
+    <edge id="e86" source="n43" target="n33">
+    </edge>
+    <edge id="e87" source="n43" target="n37">
+    </edge>
+    <edge id="e88" source="n43" target="n38">
+    </edge>
+    <edge id="e89" source="n44" target="n2">
+    </edge>
+    <edge id="e90" source="n44" target="n20">
+    </edge>
+    <edge id="e91" source="n44" target="n34">
+    </edge>
+    <edge id="e92" source="n44" target="n38">
+    </edge>
+    <edge id="e93" source="n45" target="n8">
+    </edge>
+    <edge id="e94" source="n45" target="n15">
+    </edge>
+    <edge id="e95" source="n45" target="n18">
+    </edge>
+    <edge id="e96" source="n45" target="n21">
+    </edge>
+    <edge id="e97" source="n45" target="n23">
+    </edge>
+    <edge id="e98" source="n45" target="n24">
+    </edge>
+    <edge id="e99" source="n45" target="n29">
+    </edge>
+    <edge id="e100" source="n45" target="n37">
+    </edge>
+    <edge id="e101" source="n46" target="n43">
+    </edge>
+    <edge id="e102" source="n47" target="n0">
+    </edge>
+    <edge id="e103" source="n47" target="n10">
+    </edge>
+    <edge id="e104" source="n47" target="n20">
+    </edge>
+    <edge id="e105" source="n47" target="n28">
+    </edge>
+    <edge id="e106" source="n47" target="n30">
+    </edge>
+    <edge id="e107" source="n47" target="n42">
+    </edge>
+    <edge id="e108" source="n49" target="n34">
+    </edge>
+    <edge id="e109" source="n49" target="n46">
+    </edge>
+    <edge id="e110" source="n50" target="n14">
+    </edge>
+    <edge id="e111" source="n50" target="n16">
+    </edge>
+    <edge id="e112" source="n50" target="n20">
+    </edge>
+    <edge id="e113" source="n50" target="n33">
+    </edge>
+    <edge id="e114" source="n50" target="n42">
+    </edge>
+    <edge id="e115" source="n50" target="n45">
+    </edge>
+    <edge id="e116" source="n51" target="n4">
+    </edge>
+    <edge id="e117" source="n51" target="n11">
+    </edge>
+    <edge id="e118" source="n51" target="n18">
+    </edge>
+    <edge id="e119" source="n51" target="n21">
+    </edge>
+    <edge id="e120" source="n51" target="n23">
+    </edge>
+    <edge id="e121" source="n51" target="n24">
+    </edge>
+    <edge id="e122" source="n51" target="n29">
+    </edge>
+    <edge id="e123" source="n51" target="n45">
+    </edge>
+    <edge id="e124" source="n51" target="n50">
+    </edge>
+    <edge id="e125" source="n52" target="n14">
+    </edge>
+    <edge id="e126" source="n52" target="n29">
+    </edge>
+    <edge id="e127" source="n52" target="n38">
+    </edge>
+    <edge id="e128" source="n52" target="n40">
+    </edge>
+    <edge id="e129" source="n53" target="n43">
+    </edge>
+    <edge id="e130" source="n54" target="n1">
+    </edge>
+    <edge id="e131" source="n54" target="n6">
+    </edge>
+    <edge id="e132" source="n54" target="n7">
+    </edge>
+    <edge id="e133" source="n54" target="n13">
+    </edge>
+    <edge id="e134" source="n54" target="n19">
+    </edge>
+    <edge id="e135" source="n54" target="n41">
+    </edge>
+    <edge id="e136" source="n55" target="n15">
+    </edge>
+    <edge id="e137" source="n55" target="n51">
+    </edge>
+    <edge id="e138" source="n56" target="n5">
+    </edge>
+    <edge id="e139" source="n56" target="n6">
+    </edge>
+    <edge id="e140" source="n57" target="n5">
+    </edge>
+    <edge id="e141" source="n57" target="n6">
+    </edge>
+    <edge id="e142" source="n57" target="n9">
+    </edge>
+    <edge id="e143" source="n57" target="n13">
+    </edge>
+    <edge id="e144" source="n57" target="n17">
+    </edge>
+    <edge id="e145" source="n57" target="n39">
+    </edge>
+    <edge id="e146" source="n57" target="n41">
+    </edge>
+    <edge id="e147" source="n57" target="n48">
+    </edge>
+    <edge id="e148" source="n57" target="n54">
+    </edge>
+    <edge id="e149" source="n58" target="n38">
+    </edge>
+    <edge id="e150" source="n59" target="n3">
+    </edge>
+    <edge id="e151" source="n59" target="n8">
+    </edge>
+    <edge id="e152" source="n59" target="n15">
+    </edge>
+    <edge id="e153" source="n59" target="n36">
+    </edge>
+    <edge id="e154" source="n59" target="n45">
+    </edge>
+    <edge id="e155" source="n60" target="n32">
+    </edge>
+    <edge id="e156" source="n61" target="n2">
+    </edge>
+    <edge id="e157" source="n61" target="n37">
+    </edge>
+    <edge id="e158" source="n61" target="n53">
+    </edge>
+
+  </graph>
+</graphml>

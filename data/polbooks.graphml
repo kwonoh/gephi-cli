@@ -1,0 +1,1446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+
+  <!-- property keys -->
+  <key id="key0" for="graph" attr.name="description" attr.type="string" />
+  <key id="key1" for="node" attr.name="label" attr.type="string" />
+  <key id="key2" for="node" attr.name="pos" attr.type="vector_float" />
+  <key id="key3" for="graph" attr.name="readme" attr.type="string" />
+  <key id="key4" for="node" attr.name="value" attr.type="string" />
+
+  <graph id="G" edgedefault="undirected" parse.nodeids="canonical" parse.edgeids="canonical" parse.order="nodesfirst">
+
+   <!-- graph properties -->
+   <data key="key0">Books about US politics: A network of books about US politics published around the time of the 2004 presidential election and sold by the online bookseller Amazon.com. Edges between books represent frequent copurchasing of books by the same buyers. The network was compiled by V. Krebs and is unpublished, but can found on Krebs&apos; `web site &lt;http://www.orgnet.com/&gt;`_. Retrieved from `Mark Newman&apos;s website &lt;http://www-personal.umich.edu/~mejn/netdata/&gt;`_.</data>
+   <data key="key3">Books about US politics
+Compiled by Valdis Krebs
+
+Nodes represent books about US politics sold by the online bookseller
+Amazon.com.  Edges represent frequent co-purchasing of books by the same
+buyers, as indicated by the &quot;customers who bought this book also bought
+these other books&quot; feature on Amazon.
+
+Nodes have been given values &quot;l&quot;, &quot;n&quot;, or &quot;c&quot; to indicate whether they are
+&quot;liberal&quot;, &quot;neutral&quot;, or &quot;conservative&quot;.  These alignments were assigned
+separately by Mark Newman based on a reading of the descriptions and
+reviews of the books posted on Amazon.
+
+These data should be cited as V. Krebs, unpublished,
+http://www.orgnet.com/.
+</data>
+
+   <!-- vertices -->
+    <node id="n0">
+      <data key="key1">1000 Years for Revenge</data>
+      <data key="key2">-0x1.2a3caa1aa8926p+7, 0x1.70f3796e2714p+5</data>
+      <data key="key4">n</data>
+    </node>
+    <node id="n1">
+      <data key="key1">Bush vs. the Beltway</data>
+      <data key="key2">-0x1.25ca399991111p+7, 0x1.7f2801aa0577dp+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n2">
+      <data key="key1">Charlie Wilson&apos;s War</data>
+      <data key="key2">-0x1.3170a935a9aadp+7, 0x1.6651cfaa9ff8bp+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n3">
+      <data key="key1">Losing Bin Laden</data>
+      <data key="key2">-0x1.1c6d392383dcep+7, 0x1.552f8fc04c13p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n4">
+      <data key="key1">Sleeping With the Devil</data>
+      <data key="key2">-0x1.32461672e34dap+7, 0x1.4a86b727a347p+5</data>
+      <data key="key4">n</data>
+    </node>
+    <node id="n5">
+      <data key="key1">The Man Who Warned America</data>
+      <data key="key2">-0x1.2b0a424f53ba1p+7, 0x1.5d97277f59d14p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n6">
+      <data key="key1">Why America Slept</data>
+      <data key="key2">-0x1.24b870da57d3bp+7, 0x1.5b314bcdcd05fp+5</data>
+      <data key="key4">n</data>
+    </node>
+    <node id="n7">
+      <data key="key1">Ghost Wars</data>
+      <data key="key2">-0x1.30fc39ce48034p+7, 0x1.3323b1b73d7a8p+5</data>
+      <data key="key4">n</data>
+    </node>
+    <node id="n8">
+      <data key="key1">A National Party No More</data>
+      <data key="key2">-0x1.151e8f5fc3cabp+7, 0x1.409496a8a8249p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n9">
+      <data key="key1">Bush Country</data>
+      <data key="key2">-0x1.1c99bf02b11f3p+7, 0x1.1c2d9ad6fa219p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n10">
+      <data key="key1">Dereliction of Duty</data>
+      <data key="key2">-0x1.14003384b33c9p+7, 0x1.608ace7b31e5ap+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n11">
+      <data key="key1">Legacy</data>
+      <data key="key2">-0x1.1a52877a3eae9p+7, 0x1.3645a9a296f98p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n12">
+      <data key="key1">Off with Their Heads</data>
+      <data key="key2">-0x1.154bf2ff9b53ap+7, 0x1.504ccbc30c72dp+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n13">
+      <data key="key1">Persecution</data>
+      <data key="key2">-0x1.16b1019cf8072p+7, 0x1.360af9ef17515p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n14">
+      <data key="key1">Rumsfeld&apos;s War</data>
+      <data key="key2">-0x1.22cd8f3c3e462p+7, 0x1.3060a0b1472dep+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n15">
+      <data key="key1">Breakdown</data>
+      <data key="key2">-0x1.142a68fc6be8dp+7, 0x1.8094811071973p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n16">
+      <data key="key1">Betrayal</data>
+      <data key="key2">-0x1.174da1e7b9349p+7, 0x1.905afbe85116fp+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n17">
+      <data key="key1">Shut Up and Sing</data>
+      <data key="key2">-0x1.189b77086af6dp+7, 0x1.59fef6493c91bp+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n18">
+      <data key="key1">Meant To Be</data>
+      <data key="key2">-0x1.1eaf422df89acp+7, 0x1.7e2bfae6747c4p+5</data>
+      <data key="key4">n</data>
+    </node>
+    <node id="n19">
+      <data key="key1">The Right Man</data>
+      <data key="key2">-0x1.220fa6f48f0e5p+7, 0x1.41b8fe2fef896p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n20">
+      <data key="key1">Ten Minutes from Normal</data>
+      <data key="key2">-0x1.20189e49dcedep+7, 0x1.1ed96c68c6c06p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n21">
+      <data key="key1">Hillary&apos;s Scheme</data>
+      <data key="key2">-0x1.16bddce7cc2afp+7, 0x1.6b4150e6bdp+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n22">
+      <data key="key1">The French Betrayal of America</data>
+      <data key="key2">-0x1.1f1be61d03c3dp+7, 0x1.3227cc363ce2ap+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n23">
+      <data key="key1">Tales from the Left Coast</data>
+      <data key="key2">-0x1.10470b40bc4e1p+7, 0x1.578eb64eca9eep+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n24">
+      <data key="key1">Hating America</data>
+      <data key="key2">-0x1.1c31017ebef69p+7, 0x1.3fb05eba3f95ap+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n25">
+      <data key="key1">The Third Terrorist</data>
+      <data key="key2">-0x1.2006cb5819ff8p+7, 0x1.4ec46190f144ap+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n26">
+      <data key="key1">Endgame</data>
+      <data key="key2">-0x1.1a1a8a39cc9b7p+7, 0x1.26f17e2955f52p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n27">
+      <data key="key1">Spin Sisters</data>
+      <data key="key2">-0x1.123c04e075f59p+7, 0x1.32639d8ca3705p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n28">
+      <data key="key1">All the Shah&apos;s Men</data>
+      <data key="key2">-0x1.3bd30447e425dp+7, 0x1.41a4e31b0141dp+5</data>
+      <data key="key4">n</data>
+    </node>
+    <node id="n29">
+      <data key="key1">Dangerous Dimplomacy</data>
+      <data key="key2">-0x1.26988e7d48772p+7, 0x1.44c13a8c14f0ep+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n30">
+      <data key="key1">The Price of Loyalty</data>
+      <data key="key2">-0x1.3f59db2a16e7cp+7, 0x1.1fe3690e8ecc8p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n31">
+      <data key="key1">House of Bush, House of Saud</data>
+      <data key="key2">-0x1.3afa05fc5387p+7, 0x1.1a1311e106034p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n32">
+      <data key="key1">The Death of Right and Wrong</data>
+      <data key="key2">-0x1.101199252e8p+7, 0x1.6ca77b344b9d9p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n33">
+      <data key="key1">Useful Idiots</data>
+      <data key="key2">-0x1.0c76a6e77fe8cp+7, 0x1.6352a3a94fb54p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n34">
+      <data key="key1">The O&apos;Reilly Factor</data>
+      <data key="key2">-0x1.008a30dc36ed9p+7, 0x1.544a83d58d273p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n35">
+      <data key="key1">Let Freedom Ring</data>
+      <data key="key2">-0x1.095a201c29601p+7, 0x1.3c8c22096e908p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n36">
+      <data key="key1">Those Who Trespass</data>
+      <data key="key2">-0x1.05355e2b3997bp+7, 0x1.3d78589dfc201p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n37">
+      <data key="key1">Bias</data>
+      <data key="key2">-0x1.07a3ff449502p+7, 0x1.587c5d2d187f2p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n38">
+      <data key="key1">Slander</data>
+      <data key="key2">-0x1.07c999a683fcbp+7, 0x1.69c0294c1ff07p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n39">
+      <data key="key1">The Savage Nation</data>
+      <data key="key2">-0x1.0a570e7b1e5cp+7, 0x1.4e3437a7b745dp+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n40">
+      <data key="key1">Deliver Us from Evil</data>
+      <data key="key2">-0x1.154c7e98ebb18p+7, 0x1.2ad91f1e10755p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n41">
+      <data key="key1">Give Me a Break</data>
+      <data key="key2">-0x1.0e528b75ebd1ap+7, 0x1.2f68f53fc5371p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n42">
+      <data key="key1">The Enemy Within</data>
+      <data key="key2">-0x1.0a9541faa80bap+7, 0x1.266da603c2c21p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n43">
+      <data key="key1">The Real America</data>
+      <data key="key2">-0x1.0d4b9be87bdc1p+7, 0x1.109811010332ep+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n44">
+      <data key="key1">Who&apos;s Looking Out for You?</data>
+      <data key="key2">-0x1.0f4f4e155e968p+7, 0x1.202f62c85b375p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n45">
+      <data key="key1">The Official Handbook Vast Right Wing Conspiracy</data>
+      <data key="key2">-0x1.1444774e2f10ap+7, 0x1.1610204b6a4e7p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n46">
+      <data key="key1">Power Plays</data>
+      <data key="key2">-0x1.2117b45a613dcp+7, 0x1.668941d668912p+5</data>
+      <data key="key4">n</data>
+    </node>
+    <node id="n47">
+      <data key="key1">Arrogance</data>
+      <data key="key2">-0x1.11f239a4fbdf1p+7, 0x1.423a8deb2b49fp+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n48">
+      <data key="key1">The Perfect Wife</data>
+      <data key="key2">-0x1.21caee7280aa5p+7, 0x1.e64d51cd621ap+4</data>
+      <data key="key4">n</data>
+    </node>
+    <node id="n49">
+      <data key="key1">The Bushes</data>
+      <data key="key2">-0x1.2d4c8b3379e07p+7, 0x1.1289d5b151487p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n50">
+      <data key="key1">Things Worth Fighting For</data>
+      <data key="key2">-0x1.235092200ddep+7, 0x1.09f2bfdfab0bep+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n51">
+      <data key="key1">Surprise, Security, the American Experience</data>
+      <data key="key2">-0x1.29cfda9998041p+7, 0x1.d0be658bc88f4p+4</data>
+      <data key="key4">n</data>
+    </node>
+    <node id="n52">
+      <data key="key1">Allies</data>
+      <data key="key2">-0x1.2807f3e309989p+7, 0x1.00fdd0e90d08dp+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n53">
+      <data key="key1">Why Courage Matters</data>
+      <data key="key2">-0x1.26b9faacf0e1ap+7, 0x1.26101b397a3dep+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n54">
+      <data key="key1">Hollywood Interrupted</data>
+      <data key="key2">-0x1.0d40171ec7781p+7, 0x1.41789e5648743p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n55">
+      <data key="key1">Fighting Back</data>
+      <data key="key2">-0x1.1a6362a36492cp+7, 0x1.7650f686501a5p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n56">
+      <data key="key1">We Will Prevail</data>
+      <data key="key2">-0x1.17fdc304fb891p+7, 0x1.085f2aca3be5ap+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n57">
+      <data key="key1">The Faith of George W Bush</data>
+      <data key="key2">-0x1.1dfb32dd9698bp+7, 0x1.017be3ee3f145p+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n58">
+      <data key="key1">Rise of the Vulcans</data>
+      <data key="key2">-0x1.2fd14e70e4e49p+7, 0x1.01827c106242fp+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n59">
+      <data key="key1">Downsize This!</data>
+      <data key="key2">-0x1.58d8c1483cd22p+7, 0x1.5b4a17456c2a8p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n60">
+      <data key="key1">Stupid White Men</data>
+      <data key="key2">-0x1.54fa6690fed02p+7, 0x1.4829a90b6fbb9p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n61">
+      <data key="key1">Rush Limbaugh Is a Big Fat Idiot</data>
+      <data key="key2">-0x1.500fd53a28113p+7, 0x1.72e0381a4447ap+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n62">
+      <data key="key1">The Best Democracy Money Can Buy</data>
+      <data key="key2">-0x1.57fda6c3f18bcp+7, 0x1.36f297d3b5ab2p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n63">
+      <data key="key1">The Culture of Fear</data>
+      <data key="key2">-0x1.5ccfd23b6844cp+7, 0x1.4608cd3f1070dp+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n64">
+      <data key="key1">America Unbound</data>
+      <data key="key2">-0x1.3564ab609179p+7, 0x1.dfb954db48657p+4</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n65">
+      <data key="key1">The Choice</data>
+      <data key="key2">-0x1.3245c36b17d0ep+7, 0x1.bc1f4940af887p+4</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n66">
+      <data key="key1">The Great Unraveling</data>
+      <data key="key2">-0x1.444c122852ac1p+7, 0x1.1eca60f1ba82bp+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n67">
+      <data key="key1">Rogue Nation</data>
+      <data key="key2">-0x1.3d5da095fc6bcp+7, 0x1.b7f5257f6e6c8p+4</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n68">
+      <data key="key1">Soft Power</data>
+      <data key="key2">-0x1.379913cb4c8adp+7, 0x1.bc7c0d094321fp+4</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n69">
+      <data key="key1">Colossus</data>
+      <data key="key2">-0x1.2fe146bd6330ap+7, 0x1.9634610c5fda7p+4</data>
+      <data key="key4">n</data>
+    </node>
+    <node id="n70">
+      <data key="key1">The Sorrows of Empire</data>
+      <data key="key2">-0x1.40efc137a0dap+7, 0x1.e64824dac3d46p+4</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n71">
+      <data key="key1">Against All Enemies</data>
+      <data key="key2">-0x1.3e2a2b61771eep+7, 0x1.10a820632b9f3p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n72">
+      <data key="key1">American Dynasty</data>
+      <data key="key2">-0x1.43477e24a2c63p+7, 0x1.1267a03e102c8p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n73">
+      <data key="key1">Big Lies</data>
+      <data key="key2">-0x1.46a9922e090ddp+7, 0x1.2f7bae135edb4p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n74">
+      <data key="key1">The Lies of George W. Bush</data>
+      <data key="key2">-0x1.4715960c971fap+7, 0x1.108031344a66ep+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n75">
+      <data key="key1">Worse Than Watergate</data>
+      <data key="key2">-0x1.419570c7c836fp+7, 0x1.0995d8c34a40fp+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n76">
+      <data key="key1">Plan of Attack</data>
+      <data key="key2">-0x1.3b46f410efa42p+7, 0x1.2973906448ac2p+5</data>
+      <data key="key4">n</data>
+    </node>
+    <node id="n77">
+      <data key="key1">Bush at War</data>
+      <data key="key2">-0x1.347122315531dp+7, 0x1.2024f470faf1cp+5</data>
+      <data key="key4">c</data>
+    </node>
+    <node id="n78">
+      <data key="key1">The New Pearl Harbor</data>
+      <data key="key2">-0x1.3d34c92462ce7p+7, 0x1.f3239a9480746p+4</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n79">
+      <data key="key1">Bushwomen</data>
+      <data key="key2">-0x1.4a65ceec172e8p+7, 0x1.0efbfe27566b3p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n80">
+      <data key="key1">The Bubble of American Supremacy</data>
+      <data key="key2">-0x1.4494cb8054d1dp+7, 0x1.ea3ae1a56ccddp+4</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n81">
+      <data key="key1">Living History</data>
+      <data key="key2">-0x1.42a2389a4c428p+7, 0x1.417a3b87f6364p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n82">
+      <data key="key1">The Politics of Truth</data>
+      <data key="key2">-0x1.413152c66f2d2p+7, 0x1.2d4b7b1bb70fbp+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n83">
+      <data key="key1">Fanatics and Fools</data>
+      <data key="key2">-0x1.4819b6cda531cp+7, 0x1.1ef3986be623p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n84">
+      <data key="key1">Bushwhacked</data>
+      <data key="key2">-0x1.4a542a2a51847p+7, 0x1.2fd3651e3d9fcp+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n85">
+      <data key="key1">Disarming Iraq</data>
+      <data key="key2">-0x1.3766cb45d75a3p+7, 0x1.0777c6e0a974ep+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n86">
+      <data key="key1">Lies and the Lying Liars Who Tell Them</data>
+      <data key="key2">-0x1.48b9b912acdbdp+7, 0x1.3ff071d6c6fcp+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n87">
+      <data key="key1">MoveOn&apos;s 50 Ways to Love Your Country</data>
+      <data key="key2">-0x1.5069ce93c235dp+7, 0x1.02094e8f1979fp+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n88">
+      <data key="key1">The Buying of the President 2004</data>
+      <data key="key2">-0x1.4ef361c92988ap+7, 0x1.12262d07e5849p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n89">
+      <data key="key1">Perfectly Legal</data>
+      <data key="key2">-0x1.4d0affc06d2cap+7, 0x1.21def778e813ap+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n90">
+      <data key="key1">Hegemony or Survival</data>
+      <data key="key2">-0x1.4cbbca7f44a0ap+7, 0x1.f07b7c6d121ebp+4</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n91">
+      <data key="key1">The Exception to the Rulers</data>
+      <data key="key2">-0x1.493940c2e9576p+7, 0x1.ffdcf60724088p+4</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n92">
+      <data key="key1">Freethinkers</data>
+      <data key="key2">-0x1.48bd6c2036b9cp+7, 0x1.d5789968017ffp+4</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n93">
+      <data key="key1">Had Enough?</data>
+      <data key="key2">-0x1.42d3704206d8fp+7, 0x1.50e5b0ad7a985p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n94">
+      <data key="key1">It&apos;s Still the Economy, Stupid!</data>
+      <data key="key2">-0x1.46b36aaee77c6p+7, 0x1.61b2588409ddp+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n95">
+      <data key="key1">We&apos;re Right They&apos;re Wrong</data>
+      <data key="key2">-0x1.451de0f688aedp+7, 0x1.74f7a14d155aap+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n96">
+      <data key="key1">What Liberal Media?</data>
+      <data key="key2">-0x1.4d4c72001f043p+7, 0x1.486ee51bc015cp+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n97">
+      <data key="key1">The Clinton Wars</data>
+      <data key="key2">-0x1.48d371f0309a9p+7, 0x1.505696f97d1cep+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n98">
+      <data key="key1">Weapons of Mass Deception</data>
+      <data key="key2">-0x1.53b0b473917d7p+7, 0x1.106dbab50ff66p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n99">
+      <data key="key1">Dude, Where&apos;s My Country?</data>
+      <data key="key2">-0x1.4f00813b9cd78p+7, 0x1.3617df7be9c34p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n100">
+      <data key="key1">Thieves in High Places</data>
+      <data key="key2">-0x1.508172f690c67p+7, 0x1.295e01dbfbdc5p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n101">
+      <data key="key1">Shrub</data>
+      <data key="key2">-0x1.4fdb2977b7932p+7, 0x1.59f521b6393d7p+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n102">
+      <data key="key1">Buck Up Suck Up</data>
+      <data key="key2">-0x1.388dc8bafa06p+7, 0x1.718d4417b40ap+5</data>
+      <data key="key4">l</data>
+    </node>
+    <node id="n103">
+      <data key="key1">The Future of Freedom</data>
+      <data key="key2">-0x1.3f5493cc96c38p+7, 0x1.4ed8767355c52p+4</data>
+      <data key="key4">n</data>
+    </node>
+    <node id="n104">
+      <data key="key1">Empire</data>
+      <data key="key2">-0x1.38386ffedee1cp+7, 0x1.5dcdad7a035fap+4</data>
+      <data key="key4">n</data>
+    </node>
+
+   <!-- edges -->
+    <edge id="e0" source="n1" target="n0">
+    </edge>
+    <edge id="e1" source="n2" target="n0">
+    </edge>
+    <edge id="e2" source="n3" target="n0">
+    </edge>
+    <edge id="e3" source="n3" target="n1">
+    </edge>
+    <edge id="e4" source="n4" target="n0">
+    </edge>
+    <edge id="e5" source="n4" target="n2">
+    </edge>
+    <edge id="e6" source="n5" target="n0">
+    </edge>
+    <edge id="e7" source="n5" target="n1">
+    </edge>
+    <edge id="e8" source="n5" target="n2">
+    </edge>
+    <edge id="e9" source="n5" target="n3">
+    </edge>
+    <edge id="e10" source="n5" target="n4">
+    </edge>
+    <edge id="e11" source="n6" target="n0">
+    </edge>
+    <edge id="e12" source="n6" target="n1">
+    </edge>
+    <edge id="e13" source="n6" target="n4">
+    </edge>
+    <edge id="e14" source="n6" target="n5">
+    </edge>
+    <edge id="e15" source="n7" target="n2">
+    </edge>
+    <edge id="e16" source="n7" target="n5">
+    </edge>
+    <edge id="e17" source="n7" target="n6">
+    </edge>
+    <edge id="e18" source="n8" target="n3">
+    </edge>
+    <edge id="e19" source="n9" target="n3">
+    </edge>
+    <edge id="e20" source="n9" target="n8">
+    </edge>
+    <edge id="e21" source="n10" target="n3">
+    </edge>
+    <edge id="e22" source="n10" target="n6">
+    </edge>
+    <edge id="e23" source="n10" target="n8">
+    </edge>
+    <edge id="e24" source="n11" target="n3">
+    </edge>
+    <edge id="e25" source="n11" target="n8">
+    </edge>
+    <edge id="e26" source="n11" target="n9">
+    </edge>
+    <edge id="e27" source="n11" target="n10">
+    </edge>
+    <edge id="e28" source="n12" target="n3">
+    </edge>
+    <edge id="e29" source="n12" target="n6">
+    </edge>
+    <edge id="e30" source="n12" target="n8">
+    </edge>
+    <edge id="e31" source="n12" target="n9">
+    </edge>
+    <edge id="e32" source="n12" target="n10">
+    </edge>
+    <edge id="e33" source="n12" target="n11">
+    </edge>
+    <edge id="e34" source="n13" target="n3">
+    </edge>
+    <edge id="e35" source="n13" target="n8">
+    </edge>
+    <edge id="e36" source="n13" target="n11">
+    </edge>
+    <edge id="e37" source="n13" target="n12">
+    </edge>
+    <edge id="e38" source="n14" target="n3">
+    </edge>
+    <edge id="e39" source="n14" target="n8">
+    </edge>
+    <edge id="e40" source="n14" target="n9">
+    </edge>
+    <edge id="e41" source="n14" target="n11">
+    </edge>
+    <edge id="e42" source="n14" target="n12">
+    </edge>
+    <edge id="e43" source="n14" target="n7">
+    </edge>
+    <edge id="e44" source="n15" target="n3">
+    </edge>
+    <edge id="e45" source="n15" target="n10">
+    </edge>
+    <edge id="e46" source="n15" target="n12">
+    </edge>
+    <edge id="e47" source="n16" target="n3">
+    </edge>
+    <edge id="e48" source="n16" target="n10">
+    </edge>
+    <edge id="e49" source="n16" target="n15">
+    </edge>
+    <edge id="e50" source="n17" target="n3">
+    </edge>
+    <edge id="e51" source="n17" target="n11">
+    </edge>
+    <edge id="e52" source="n17" target="n12">
+    </edge>
+    <edge id="e53" source="n17" target="n13">
+    </edge>
+    <edge id="e54" source="n18" target="n3">
+    </edge>
+    <edge id="e55" source="n18" target="n6">
+    </edge>
+    <edge id="e56" source="n18" target="n12">
+    </edge>
+    <edge id="e57" source="n19" target="n3">
+    </edge>
+    <edge id="e58" source="n19" target="n10">
+    </edge>
+    <edge id="e59" source="n20" target="n3">
+    </edge>
+    <edge id="e60" source="n20" target="n8">
+    </edge>
+    <edge id="e61" source="n20" target="n9">
+    </edge>
+    <edge id="e62" source="n20" target="n11">
+    </edge>
+    <edge id="e63" source="n21" target="n3">
+    </edge>
+    <edge id="e64" source="n21" target="n8">
+    </edge>
+    <edge id="e65" source="n21" target="n10">
+    </edge>
+    <edge id="e66" source="n21" target="n11">
+    </edge>
+    <edge id="e67" source="n22" target="n3">
+    </edge>
+    <edge id="e68" source="n22" target="n6">
+    </edge>
+    <edge id="e69" source="n22" target="n8">
+    </edge>
+    <edge id="e70" source="n22" target="n11">
+    </edge>
+    <edge id="e71" source="n23" target="n3">
+    </edge>
+    <edge id="e72" source="n23" target="n8">
+    </edge>
+    <edge id="e73" source="n23" target="n12">
+    </edge>
+    <edge id="e74" source="n23" target="n21">
+    </edge>
+    <edge id="e75" source="n24" target="n3">
+    </edge>
+    <edge id="e76" source="n24" target="n8">
+    </edge>
+    <edge id="e77" source="n24" target="n9">
+    </edge>
+    <edge id="e78" source="n24" target="n12">
+    </edge>
+    <edge id="e79" source="n24" target="n20">
+    </edge>
+    <edge id="e80" source="n25" target="n3">
+    </edge>
+    <edge id="e81" source="n25" target="n6">
+    </edge>
+    <edge id="e82" source="n25" target="n14">
+    </edge>
+    <edge id="e83" source="n25" target="n22">
+    </edge>
+    <edge id="e84" source="n26" target="n3">
+    </edge>
+    <edge id="e85" source="n26" target="n8">
+    </edge>
+    <edge id="e86" source="n26" target="n11">
+    </edge>
+    <edge id="e87" source="n26" target="n14">
+    </edge>
+    <edge id="e88" source="n26" target="n24">
+    </edge>
+    <edge id="e89" source="n27" target="n3">
+    </edge>
+    <edge id="e90" source="n27" target="n8">
+    </edge>
+    <edge id="e91" source="n27" target="n9">
+    </edge>
+    <edge id="e92" source="n27" target="n11">
+    </edge>
+    <edge id="e93" source="n27" target="n23">
+    </edge>
+    <edge id="e94" source="n28" target="n4">
+    </edge>
+    <edge id="e95" source="n29" target="n4">
+    </edge>
+    <edge id="e96" source="n29" target="n6">
+    </edge>
+    <edge id="e97" source="n29" target="n11">
+    </edge>
+    <edge id="e98" source="n29" target="n13">
+    </edge>
+    <edge id="e99" source="n30" target="n4">
+    </edge>
+    <edge id="e100" source="n30" target="n7">
+    </edge>
+    <edge id="e101" source="n31" target="n4">
+    </edge>
+    <edge id="e102" source="n31" target="n30">
+    </edge>
+    <edge id="e103" source="n32" target="n8">
+    </edge>
+    <edge id="e104" source="n32" target="n12">
+    </edge>
+    <edge id="e105" source="n32" target="n13">
+    </edge>
+    <edge id="e106" source="n32" target="n23">
+    </edge>
+    <edge id="e107" source="n33" target="n32">
+    </edge>
+    <edge id="e108" source="n33" target="n8">
+    </edge>
+    <edge id="e109" source="n33" target="n10">
+    </edge>
+    <edge id="e110" source="n33" target="n12">
+    </edge>
+    <edge id="e111" source="n33" target="n23">
+    </edge>
+    <edge id="e112" source="n35" target="n34">
+    </edge>
+    <edge id="e113" source="n35" target="n8">
+    </edge>
+    <edge id="e114" source="n35" target="n10">
+    </edge>
+    <edge id="e115" source="n36" target="n34">
+    </edge>
+    <edge id="e116" source="n36" target="n35">
+    </edge>
+    <edge id="e117" source="n36" target="n12">
+    </edge>
+    <edge id="e118" source="n37" target="n34">
+    </edge>
+    <edge id="e119" source="n37" target="n8">
+    </edge>
+    <edge id="e120" source="n37" target="n10">
+    </edge>
+    <edge id="e121" source="n37" target="n35">
+    </edge>
+    <edge id="e122" source="n37" target="n33">
+    </edge>
+    <edge id="e123" source="n38" target="n34">
+    </edge>
+    <edge id="e124" source="n38" target="n10">
+    </edge>
+    <edge id="e125" source="n38" target="n35">
+    </edge>
+    <edge id="e126" source="n38" target="n12">
+    </edge>
+    <edge id="e127" source="n38" target="n37">
+    </edge>
+    <edge id="e128" source="n38" target="n33">
+    </edge>
+    <edge id="e129" source="n39" target="n34">
+    </edge>
+    <edge id="e130" source="n39" target="n10">
+    </edge>
+    <edge id="e131" source="n39" target="n35">
+    </edge>
+    <edge id="e132" source="n39" target="n12">
+    </edge>
+    <edge id="e133" source="n39" target="n38">
+    </edge>
+    <edge id="e134" source="n39" target="n33">
+    </edge>
+    <edge id="e135" source="n40" target="n8">
+    </edge>
+    <edge id="e136" source="n40" target="n35">
+    </edge>
+    <edge id="e137" source="n40" target="n12">
+    </edge>
+    <edge id="e138" source="n40" target="n13">
+    </edge>
+    <edge id="e139" source="n40" target="n20">
+    </edge>
+    <edge id="e140" source="n40" target="n22">
+    </edge>
+    <edge id="e141" source="n40" target="n39">
+    </edge>
+    <edge id="e142" source="n40" target="n24">
+    </edge>
+    <edge id="e143" source="n40" target="n25">
+    </edge>
+    <edge id="e144" source="n40" target="n26">
+    </edge>
+    <edge id="e145" source="n40" target="n27">
+    </edge>
+    <edge id="e146" source="n41" target="n8">
+    </edge>
+    <edge id="e147" source="n41" target="n9">
+    </edge>
+    <edge id="e148" source="n41" target="n40">
+    </edge>
+    <edge id="e149" source="n41" target="n12">
+    </edge>
+    <edge id="e150" source="n41" target="n36">
+    </edge>
+    <edge id="e151" source="n41" target="n27">
+    </edge>
+    <edge id="e152" source="n42" target="n8">
+    </edge>
+    <edge id="e153" source="n42" target="n40">
+    </edge>
+    <edge id="e154" source="n42" target="n13">
+    </edge>
+    <edge id="e155" source="n42" target="n39">
+    </edge>
+    <edge id="e156" source="n43" target="n8">
+    </edge>
+    <edge id="e157" source="n43" target="n35">
+    </edge>
+    <edge id="e158" source="n43" target="n13">
+    </edge>
+    <edge id="e159" source="n43" target="n42">
+    </edge>
+    <edge id="e160" source="n44" target="n8">
+    </edge>
+    <edge id="e161" source="n44" target="n40">
+    </edge>
+    <edge id="e162" source="n44" target="n35">
+    </edge>
+    <edge id="e163" source="n44" target="n12">
+    </edge>
+    <edge id="e164" source="n44" target="n13">
+    </edge>
+    <edge id="e165" source="n45" target="n8">
+    </edge>
+    <edge id="e166" source="n45" target="n9">
+    </edge>
+    <edge id="e167" source="n45" target="n40">
+    </edge>
+    <edge id="e168" source="n45" target="n11">
+    </edge>
+    <edge id="e169" source="n45" target="n26">
+    </edge>
+    <edge id="e170" source="n46" target="n8">
+    </edge>
+    <edge id="e171" source="n46" target="n12">
+    </edge>
+    <edge id="e172" source="n47" target="n9">
+    </edge>
+    <edge id="e173" source="n47" target="n40">
+    </edge>
+    <edge id="e174" source="n47" target="n41">
+    </edge>
+    <edge id="e175" source="n47" target="n11">
+    </edge>
+    <edge id="e176" source="n47" target="n12">
+    </edge>
+    <edge id="e177" source="n47" target="n13">
+    </edge>
+    <edge id="e178" source="n47" target="n42">
+    </edge>
+    <edge id="e179" source="n47" target="n36">
+    </edge>
+    <edge id="e180" source="n47" target="n37">
+    </edge>
+    <edge id="e181" source="n47" target="n17">
+    </edge>
+    <edge id="e182" source="n47" target="n33">
+    </edge>
+    <edge id="e183" source="n47" target="n45">
+    </edge>
+    <edge id="e184" source="n47" target="n46">
+    </edge>
+    <edge id="e185" source="n47" target="n23">
+    </edge>
+    <edge id="e186" source="n47" target="n24">
+    </edge>
+    <edge id="e187" source="n47" target="n26">
+    </edge>
+    <edge id="e188" source="n47" target="n27">
+    </edge>
+    <edge id="e189" source="n48" target="n9">
+    </edge>
+    <edge id="e190" source="n48" target="n20">
+    </edge>
+    <edge id="e191" source="n49" target="n9">
+    </edge>
+    <edge id="e192" source="n49" target="n20">
+    </edge>
+    <edge id="e193" source="n49" target="n31">
+    </edge>
+    <edge id="e194" source="n49" target="n48">
+    </edge>
+    <edge id="e195" source="n50" target="n9">
+    </edge>
+    <edge id="e196" source="n50" target="n11">
+    </edge>
+    <edge id="e197" source="n51" target="n9">
+    </edge>
+    <edge id="e198" source="n52" target="n9">
+    </edge>
+    <edge id="e199" source="n52" target="n22">
+    </edge>
+    <edge id="e200" source="n52" target="n51">
+    </edge>
+    <edge id="e201" source="n53" target="n40">
+    </edge>
+    <edge id="e202" source="n53" target="n20">
+    </edge>
+    <edge id="e203" source="n53" target="n24">
+    </edge>
+    <edge id="e204" source="n53" target="n26">
+    </edge>
+    <edge id="e205" source="n54" target="n40">
+    </edge>
+    <edge id="e206" source="n54" target="n41">
+    </edge>
+    <edge id="e207" source="n54" target="n12">
+    </edge>
+    <edge id="e208" source="n54" target="n47">
+    </edge>
+    <edge id="e209" source="n54" target="n23">
+    </edge>
+    <edge id="e210" source="n54" target="n27">
+    </edge>
+    <edge id="e211" source="n55" target="n10">
+    </edge>
+    <edge id="e212" source="n55" target="n12">
+    </edge>
+    <edge id="e213" source="n55" target="n15">
+    </edge>
+    <edge id="e214" source="n55" target="n19">
+    </edge>
+    <edge id="e215" source="n56" target="n11">
+    </edge>
+    <edge id="e216" source="n56" target="n19">
+    </edge>
+    <edge id="e217" source="n56" target="n43">
+    </edge>
+    <edge id="e218" source="n57" target="n13">
+    </edge>
+    <edge id="e219" source="n57" target="n56">
+    </edge>
+    <edge id="e220" source="n57" target="n20">
+    </edge>
+    <edge id="e221" source="n57" target="n48">
+    </edge>
+    <edge id="e222" source="n57" target="n49">
+    </edge>
+    <edge id="e223" source="n58" target="n14">
+    </edge>
+    <edge id="e224" source="n58" target="n7">
+    </edge>
+    <edge id="e225" source="n58" target="n30">
+    </edge>
+    <edge id="e226" source="n58" target="n49">
+    </edge>
+    <edge id="e227" source="n58" target="n50">
+    </edge>
+    <edge id="e228" source="n58" target="n51">
+    </edge>
+    <edge id="e229" source="n58" target="n52">
+    </edge>
+    <edge id="e230" source="n60" target="n59">
+    </edge>
+    <edge id="e231" source="n61" target="n59">
+    </edge>
+    <edge id="e232" source="n62" target="n59">
+    </edge>
+    <edge id="e233" source="n62" target="n60">
+    </edge>
+    <edge id="e234" source="n63" target="n59">
+    </edge>
+    <edge id="e235" source="n63" target="n60">
+    </edge>
+    <edge id="e236" source="n63" target="n62">
+    </edge>
+    <edge id="e237" source="n64" target="n58">
+    </edge>
+    <edge id="e238" source="n64" target="n51">
+    </edge>
+    <edge id="e239" source="n64" target="n52">
+    </edge>
+    <edge id="e240" source="n65" target="n64">
+    </edge>
+    <edge id="e241" source="n65" target="n58">
+    </edge>
+    <edge id="e242" source="n65" target="n51">
+    </edge>
+    <edge id="e243" source="n66" target="n64">
+    </edge>
+    <edge id="e244" source="n66" target="n28">
+    </edge>
+    <edge id="e245" source="n66" target="n30">
+    </edge>
+    <edge id="e246" source="n67" target="n64">
+    </edge>
+    <edge id="e247" source="n67" target="n65">
+    </edge>
+    <edge id="e248" source="n67" target="n66">
+    </edge>
+    <edge id="e249" source="n67" target="n30">
+    </edge>
+    <edge id="e250" source="n68" target="n64">
+    </edge>
+    <edge id="e251" source="n68" target="n58">
+    </edge>
+    <edge id="e252" source="n68" target="n65">
+    </edge>
+    <edge id="e253" source="n69" target="n64">
+    </edge>
+    <edge id="e254" source="n69" target="n58">
+    </edge>
+    <edge id="e255" source="n69" target="n65">
+    </edge>
+    <edge id="e256" source="n69" target="n51">
+    </edge>
+    <edge id="e257" source="n70" target="n64">
+    </edge>
+    <edge id="e258" source="n70" target="n66">
+    </edge>
+    <edge id="e259" source="n70" target="n30">
+    </edge>
+    <edge id="e260" source="n71" target="n7">
+    </edge>
+    <edge id="e261" source="n71" target="n68">
+    </edge>
+    <edge id="e262" source="n71" target="n70">
+    </edge>
+    <edge id="e263" source="n72" target="n71">
+    </edge>
+    <edge id="e264" source="n72" target="n28">
+    </edge>
+    <edge id="e265" source="n72" target="n66">
+    </edge>
+    <edge id="e266" source="n72" target="n49">
+    </edge>
+    <edge id="e267" source="n72" target="n70">
+    </edge>
+    <edge id="e268" source="n73" target="n71">
+    </edge>
+    <edge id="e269" source="n73" target="n72">
+    </edge>
+    <edge id="e270" source="n73" target="n66">
+    </edge>
+    <edge id="e271" source="n73" target="n30">
+    </edge>
+    <edge id="e272" source="n73" target="n31">
+    </edge>
+    <edge id="e273" source="n74" target="n71">
+    </edge>
+    <edge id="e274" source="n74" target="n72">
+    </edge>
+    <edge id="e275" source="n74" target="n73">
+    </edge>
+    <edge id="e276" source="n74" target="n66">
+    </edge>
+    <edge id="e277" source="n74" target="n30">
+    </edge>
+    <edge id="e278" source="n74" target="n31">
+    </edge>
+    <edge id="e279" source="n75" target="n71">
+    </edge>
+    <edge id="e280" source="n75" target="n72">
+    </edge>
+    <edge id="e281" source="n75" target="n73">
+    </edge>
+    <edge id="e282" source="n75" target="n74">
+    </edge>
+    <edge id="e283" source="n75" target="n30">
+    </edge>
+    <edge id="e284" source="n75" target="n31">
+    </edge>
+    <edge id="e285" source="n75" target="n70">
+    </edge>
+    <edge id="e286" source="n76" target="n71">
+    </edge>
+    <edge id="e287" source="n76" target="n72">
+    </edge>
+    <edge id="e288" source="n76" target="n75">
+    </edge>
+    <edge id="e289" source="n76" target="n66">
+    </edge>
+    <edge id="e290" source="n76" target="n30">
+    </edge>
+    <edge id="e291" source="n76" target="n31">
+    </edge>
+    <edge id="e292" source="n76" target="n49">
+    </edge>
+    <edge id="e293" source="n76" target="n53">
+    </edge>
+    <edge id="e294" source="n77" target="n71">
+    </edge>
+    <edge id="e295" source="n77" target="n75">
+    </edge>
+    <edge id="e296" source="n77" target="n58">
+    </edge>
+    <edge id="e297" source="n77" target="n30">
+    </edge>
+    <edge id="e298" source="n77" target="n19">
+    </edge>
+    <edge id="e299" source="n77" target="n31">
+    </edge>
+    <edge id="e300" source="n77" target="n76">
+    </edge>
+    <edge id="e301" source="n78" target="n71">
+    </edge>
+    <edge id="e302" source="n78" target="n72">
+    </edge>
+    <edge id="e303" source="n78" target="n74">
+    </edge>
+    <edge id="e304" source="n78" target="n75">
+    </edge>
+    <edge id="e305" source="n78" target="n31">
+    </edge>
+    <edge id="e306" source="n79" target="n71">
+    </edge>
+    <edge id="e307" source="n79" target="n72">
+    </edge>
+    <edge id="e308" source="n79" target="n74">
+    </edge>
+    <edge id="e309" source="n79" target="n75">
+    </edge>
+    <edge id="e310" source="n79" target="n30">
+    </edge>
+    <edge id="e311" source="n80" target="n71">
+    </edge>
+    <edge id="e312" source="n80" target="n72">
+    </edge>
+    <edge id="e313" source="n80" target="n66">
+    </edge>
+    <edge id="e314" source="n80" target="n30">
+    </edge>
+    <edge id="e315" source="n81" target="n71">
+    </edge>
+    <edge id="e316" source="n82" target="n71">
+    </edge>
+    <edge id="e317" source="n82" target="n72">
+    </edge>
+    <edge id="e318" source="n82" target="n73">
+    </edge>
+    <edge id="e319" source="n82" target="n74">
+    </edge>
+    <edge id="e320" source="n82" target="n75">
+    </edge>
+    <edge id="e321" source="n82" target="n30">
+    </edge>
+    <edge id="e322" source="n82" target="n31">
+    </edge>
+    <edge id="e323" source="n82" target="n76">
+    </edge>
+    <edge id="e324" source="n83" target="n71">
+    </edge>
+    <edge id="e325" source="n83" target="n73">
+    </edge>
+    <edge id="e326" source="n83" target="n75">
+    </edge>
+    <edge id="e327" source="n83" target="n30">
+    </edge>
+    <edge id="e328" source="n83" target="n76">
+    </edge>
+    <edge id="e329" source="n84" target="n72">
+    </edge>
+    <edge id="e330" source="n84" target="n74">
+    </edge>
+    <edge id="e331" source="n84" target="n75">
+    </edge>
+    <edge id="e332" source="n84" target="n66">
+    </edge>
+    <edge id="e333" source="n84" target="n73">
+    </edge>
+    <edge id="e334" source="n84" target="n60">
+    </edge>
+    <edge id="e335" source="n84" target="n30">
+    </edge>
+    <edge id="e336" source="n84" target="n62">
+    </edge>
+    <edge id="e337" source="n84" target="n76">
+    </edge>
+    <edge id="e338" source="n84" target="n79">
+    </edge>
+    <edge id="e339" source="n84" target="n81">
+    </edge>
+    <edge id="e340" source="n84" target="n82">
+    </edge>
+    <edge id="e341" source="n84" target="n83">
+    </edge>
+    <edge id="e342" source="n85" target="n72">
+    </edge>
+    <edge id="e343" source="n85" target="n7">
+    </edge>
+    <edge id="e344" source="n85" target="n58">
+    </edge>
+    <edge id="e345" source="n85" target="n65">
+    </edge>
+    <edge id="e346" source="n85" target="n66">
+    </edge>
+    <edge id="e347" source="n86" target="n72">
+    </edge>
+    <edge id="e348" source="n86" target="n73">
+    </edge>
+    <edge id="e349" source="n86" target="n66">
+    </edge>
+    <edge id="e350" source="n86" target="n84">
+    </edge>
+    <edge id="e351" source="n86" target="n60">
+    </edge>
+    <edge id="e352" source="n86" target="n30">
+    </edge>
+    <edge id="e353" source="n86" target="n61">
+    </edge>
+    <edge id="e354" source="n86" target="n76">
+    </edge>
+    <edge id="e355" source="n86" target="n81">
+    </edge>
+    <edge id="e356" source="n87" target="n72">
+    </edge>
+    <edge id="e357" source="n87" target="n74">
+    </edge>
+    <edge id="e358" source="n87" target="n84">
+    </edge>
+    <edge id="e359" source="n87" target="n83">
+    </edge>
+    <edge id="e360" source="n88" target="n72">
+    </edge>
+    <edge id="e361" source="n88" target="n74">
+    </edge>
+    <edge id="e362" source="n88" target="n66">
+    </edge>
+    <edge id="e363" source="n88" target="n84">
+    </edge>
+    <edge id="e364" source="n89" target="n72">
+    </edge>
+    <edge id="e365" source="n89" target="n73">
+    </edge>
+    <edge id="e366" source="n89" target="n66">
+    </edge>
+    <edge id="e367" source="n89" target="n84">
+    </edge>
+    <edge id="e368" source="n89" target="n86">
+    </edge>
+    <edge id="e369" source="n89" target="n88">
+    </edge>
+    <edge id="e370" source="n90" target="n72">
+    </edge>
+    <edge id="e371" source="n90" target="n66">
+    </edge>
+    <edge id="e372" source="n90" target="n70">
+    </edge>
+    <edge id="e373" source="n91" target="n72">
+    </edge>
+    <edge id="e374" source="n91" target="n74">
+    </edge>
+    <edge id="e375" source="n91" target="n75">
+    </edge>
+    <edge id="e376" source="n91" target="n31">
+    </edge>
+    <edge id="e377" source="n91" target="n90">
+    </edge>
+    <edge id="e378" source="n91" target="n79">
+    </edge>
+    <edge id="e379" source="n92" target="n72">
+    </edge>
+    <edge id="e380" source="n92" target="n73">
+    </edge>
+    <edge id="e381" source="n92" target="n75">
+    </edge>
+    <edge id="e382" source="n93" target="n73">
+    </edge>
+    <edge id="e383" source="n93" target="n66">
+    </edge>
+    <edge id="e384" source="n93" target="n86">
+    </edge>
+    <edge id="e385" source="n93" target="n30">
+    </edge>
+    <edge id="e386" source="n94" target="n73">
+    </edge>
+    <edge id="e387" source="n94" target="n84">
+    </edge>
+    <edge id="e388" source="n94" target="n93">
+    </edge>
+    <edge id="e389" source="n95" target="n73">
+    </edge>
+    <edge id="e390" source="n95" target="n94">
+    </edge>
+    <edge id="e391" source="n95" target="n61">
+    </edge>
+    <edge id="e392" source="n96" target="n73">
+    </edge>
+    <edge id="e393" source="n96" target="n66">
+    </edge>
+    <edge id="e394" source="n96" target="n84">
+    </edge>
+    <edge id="e395" source="n96" target="n94">
+    </edge>
+    <edge id="e396" source="n97" target="n73">
+    </edge>
+    <edge id="e397" source="n97" target="n66">
+    </edge>
+    <edge id="e398" source="n97" target="n84">
+    </edge>
+    <edge id="e399" source="n97" target="n86">
+    </edge>
+    <edge id="e400" source="n97" target="n96">
+    </edge>
+    <edge id="e401" source="n97" target="n81">
+    </edge>
+    <edge id="e402" source="n98" target="n73">
+    </edge>
+    <edge id="e403" source="n98" target="n74">
+    </edge>
+    <edge id="e404" source="n98" target="n87">
+    </edge>
+    <edge id="e405" source="n98" target="n91">
+    </edge>
+    <edge id="e406" source="n99" target="n73">
+    </edge>
+    <edge id="e407" source="n99" target="n74">
+    </edge>
+    <edge id="e408" source="n99" target="n66">
+    </edge>
+    <edge id="e409" source="n99" target="n84">
+    </edge>
+    <edge id="e410" source="n99" target="n93">
+    </edge>
+    <edge id="e411" source="n99" target="n60">
+    </edge>
+    <edge id="e412" source="n99" target="n59">
+    </edge>
+    <edge id="e413" source="n99" target="n30">
+    </edge>
+    <edge id="e414" source="n99" target="n62">
+    </edge>
+    <edge id="e415" source="n99" target="n63">
+    </edge>
+    <edge id="e416" source="n99" target="n90">
+    </edge>
+    <edge id="e417" source="n100" target="n73">
+    </edge>
+    <edge id="e418" source="n100" target="n66">
+    </edge>
+    <edge id="e419" source="n100" target="n84">
+    </edge>
+    <edge id="e420" source="n100" target="n86">
+    </edge>
+    <edge id="e421" source="n100" target="n96">
+    </edge>
+    <edge id="e422" source="n100" target="n98">
+    </edge>
+    <edge id="e423" source="n100" target="n99">
+    </edge>
+    <edge id="e424" source="n100" target="n62">
+    </edge>
+    <edge id="e425" source="n100" target="n79">
+    </edge>
+    <edge id="e426" source="n100" target="n91">
+    </edge>
+    <edge id="e427" source="n100" target="n83">
+    </edge>
+    <edge id="e428" source="n101" target="n84">
+    </edge>
+    <edge id="e429" source="n101" target="n86">
+    </edge>
+    <edge id="e430" source="n101" target="n94">
+    </edge>
+    <edge id="e431" source="n101" target="n100">
+    </edge>
+    <edge id="e432" source="n101" target="n61">
+    </edge>
+    <edge id="e433" source="n102" target="n93">
+    </edge>
+    <edge id="e434" source="n102" target="n94">
+    </edge>
+    <edge id="e435" source="n102" target="n95">
+    </edge>
+    <edge id="e436" source="n102" target="n46">
+    </edge>
+    <edge id="e437" source="n103" target="n67">
+    </edge>
+    <edge id="e438" source="n104" target="n67">
+    </edge>
+    <edge id="e439" source="n104" target="n69">
+    </edge>
+    <edge id="e440" source="n104" target="n103">
+    </edge>
+
+  </graph>
+</graphml>
