@@ -22,9 +22,9 @@ java -jar gephi-cli.jar force-atlas-2 -i data/karate.graphml -o data/karate.out.
       --scaling-ratio=NUM   Scaling ratio parameter (default: 2.0 if |V| >= 100 else 10.0).
       --strong-gravity=BOOL Use strong gravity mode (default: false).
       --gravity=NUM         Gravity parameter (default: 1.0).
-      --out-bound-attr-dist=BOOL
+      --outbound-attr-dist=BOOL
                             Outbound attraction distribution parameter (default: false)
-      --lin-log=BOOL        Use LinLog mode (default: false).
+      --linlog=BOOL         Use LinLog mode (default: false).
       --adjust-sizes=BOOL   Adjust sizes parameter (default: false).
       --edge-weight-influence=NUM
                             Edge weight influence parameter (default: 1.0).

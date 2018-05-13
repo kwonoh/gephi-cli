@@ -55,13 +55,13 @@ public class ForceAtlas2Layout extends AbstractGephiCommand implements Callable<
             description = "Gravity parameter (default: 1.0).")
     protected Double gravity = null;
 
-    @Option(names = "--out-bound-attr-dist",
+    @Option(names = "--outbound-attr-dist",
             paramLabel = "BOOL",
             arity = "1",
             description = "Outbound attraction distribution parameter (default: false)")
     protected Boolean setOutboundAttractionDistribution = null;
 
-    @Option(names = "--lin-log",
+    @Option(names = "--linlog",
             paramLabel = "BOOL",
             arity = "1",
             description = "Use LinLog mode (default: false).")
