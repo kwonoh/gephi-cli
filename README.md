@@ -2,7 +2,7 @@
 A command-line interface of [Gephi](https://gephi.org/).
 
 ## Download
-[gephi-cli (2018-05-11)](https://github.com/kwonoh/gephi-cli/releases/download/2018-05-11/gephi-cli.jar)
+[gephi-cli (2018-05-12)](https://github.com/kwonoh/gephi-cli/releases/download/2018-05-12/gephi-cli.jar)
 
 ## Usage
 ```sh
